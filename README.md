@@ -9,3 +9,6 @@ python version of epicseven-cup/youtube-music-service
 ### build
 
 i build with nuitka and this takes sooooo muchhh time to compile
+
+# reference
+[epicseven-cup/youtube-music-service](https://github.com/epicseven-cup/youtube-music-service)
